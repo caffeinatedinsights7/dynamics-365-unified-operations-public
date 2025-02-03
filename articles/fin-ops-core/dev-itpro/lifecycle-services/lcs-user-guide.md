@@ -7,7 +7,7 @@ ms.topic: overview
 ms.date: 07/02/2019
 ms.reviewer: johnmichalak
 audience: Developer, IT Pro
-ms.search.region: Global
+[ms.search.region: Global](https://caffeinatedinsights.com/)
 ms.search.validFrom: 2016-02-28
 ms.search.form:
 ms.dyn365.ops.version: AX 7.0.0
